@@ -40,3 +40,8 @@ SecureClock is being developed as a practical workforce management solution for 
 Full-Stack Developer | Web Applications | AI-Assisted Development
 
 GitHub: https://github.com/its4madu-oss
+## Demo Video
+
+Watch the SecureClock application screen recording:
+
+[View SecureClock Demo on YouTube](https://youtube.com/shorts/peTuCRZX5v0)
